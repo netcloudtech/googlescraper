@@ -122,6 +122,10 @@ private $retryDelay = 60;   // Yeniden denemeler arasındaki bekleme süresi (sa
 private $minRequestDelay = 5; // İstekler arasındaki minimum bekleme süresi (saniye)
 ```
 
+### Uygulamadan Görüntüler
+<img src="https://i.imgur.com/jJiVH1S.png" alt="Netcloud Information Technologies" width="500">
+<img src="https://i.imgur.com/gaHg5SF.png" alt="Netcloud Information Technologies" width="500">
+
 ## 📜 Lisans
 
 Bu proje MIT lisansı altında dağıtılmaktadır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
